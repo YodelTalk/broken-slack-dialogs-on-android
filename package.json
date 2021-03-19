@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.3.0"
+  }
+}
